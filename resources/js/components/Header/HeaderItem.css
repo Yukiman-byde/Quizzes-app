@@ -1,0 +1,13 @@
+.header__Item {
+    padding-top: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    color: #E6E6E6;
+    margin-right: 50px;
+}
+
+.header__Item:hover {
+    color: black
+}
